@@ -24,7 +24,7 @@ Specifies the target image or the directory with images to perform operations on
 Specifies the directory to save the images that have been processed. Please use absolute path.
 By default the path is <code>./saved/runs(Number)</code>.
 
-> python3 alternate.py --source some/dir/with/images/ --save-location the/directory/to/save/images/
+> python3 alternate.py --source some/dir/with/images/ --save-location the/dir/to/save/images/
 </p>
 
 <h2>--invert-color</h2>
